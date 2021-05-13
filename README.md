@@ -19,7 +19,7 @@ Com experiência em programação usando diversas linguagens, como C, C++, Java,
 Veja os tutoriais publicados do Sigmoidal:
 
 * **Análise dos dados do Airbnb na cidade de Denver** https://bit.ly/2Mym8Uo
-
+* **Ánalise dos crimes no Rio de Janeiro** https://bit.ly/3uWPey1
 
 ---
 
